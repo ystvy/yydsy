@@ -2,16 +2,12 @@
     "urls": [
         {
             "url": "https://yydsys.top/duo/v.json",
-            "name": "🔔线路1"
+            "name": "🔔多多线路"
         },
         {
             "url": "https://yydsys.top/duo/m.json",
             "name": "🏡应用多多家庭版"
         }, 
-        {
-            "url": "https://yydsys.top/duo/t.json",
-            "name": "🏡线路2"
-        },
         {
             "url": "http://我不是.肥猫.love:63",
             "name": "🚀肥猫线路"
