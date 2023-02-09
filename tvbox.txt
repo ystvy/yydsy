@@ -149,8 +149,28 @@
             "name": "💎chengxueli线路"
         },
         {
-            "url": "http://我不是.肥猫.love:63",
-            "name": "🚀肥猫线路"
+          "url":"http://刚刚.live/猫",
+          "name":"🚀刚刚线路"
+        },
+        {
+          "url":"https://神器每日推送.tk/pz.json",
+          "name":"🚀神器线路"
+        },
+        {
+          "url":"https://raw.liucn.cc/box/m.json",
+          "name":"🚀老刘备线路"
+        },
+        {
+          "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
+           "name":"🚀元兴线路"
+        },
+        {
+          "url":"http://js.134584.xyz/json/pp87.json",
+          "name":"🚀星辰影视线路"
+        },
+        {
+          "url":"http://000913.xyz/box/tv.json",
+          "name":"🚀源享家线路"
         }
     ]
 }
