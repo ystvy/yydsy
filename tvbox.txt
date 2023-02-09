@@ -1,6 +1,9 @@
 {
     "urls": [
         {
+            "url": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json",
+            "name": "YSTV线路"
+        },{
             "url": "https://yydsys.top/duo/v.json",
             "name": "🔔多多线路"
         },
