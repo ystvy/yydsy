@@ -20,8 +20,12 @@
             "name": "巧技"
         },
         {
-            "url": "http://shagua888168.3vdo.club",
-            "name": "🚀蓝魔线路"
+            "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "name": "胖丫"
+        },
+        {
+            "url": "https://agit.ai/liucn/box/raw/branch/main/m.json",
+            "name": "刘C"
         },
         {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
@@ -116,7 +120,7 @@
             "name": "💎唐三线路"
         },
         {
-            "url": "https://raw.fastgit.org/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "url": "https://raw.kgithub.com/kebedd69/TVbox-interface/main/甜蜜.json",
             "name": "💎甜蜜线路"
         },
         {
