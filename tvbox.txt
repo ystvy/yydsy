@@ -14,6 +14,10 @@
         {
             "url": "http://我不是.肥猫.love:63",
             "name": "🚀肥猫线路"
+        }, 
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧技"
         },
         {
             "url": "http://shagua888168.3vdo.club",
