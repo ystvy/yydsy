@@ -4,8 +4,8 @@
 "简介": "module-info-introduction-content&&</div>",
 "播放标题":"span>&&<",
 "副标题":"class=\"module-item-tag\">&&</div>",
-"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路数组": "class=\"module-tab&&</div>",
 "线路标题": "<span>&&</span>",
-"播放数组":"class=\"module-mobile-play&&</div>",
+"播放数组":"class=\"module-play-list&&</div>",
 "分类url":"https://www.umkan.cc/index.php/vod_show_{by}_id_{cateId}_page_{catePg}_year_{year}.html[https://www.umkan.cc/index.php/vod_show_id_{cateId}.html]",
 "分类":"电影$1#剧集$2#综艺$3#动漫$4"}
