@@ -45,7 +45,7 @@
 {"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_xBPQ_真不卡","name":"️⚜️真不卡(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"module-info-introduction-content&&</div>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html\"}"},
+{"key":"csp_xBPQ_真不卡","name":"️⚜️真不卡(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"module-info-introduction-content&&</div>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html\",\"年份\":\"2011-2023\",\"筛选\":\"1\"}"},
 {"key":"csp_xBPQ_UM","name":"🍣UM影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/zy/xBPQ/UM.json"},
 {"key":"csp_xBPQ_4K","name":"💿4K影院(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/zy/xBPQ/4K.json"},
 {"key":"csp_xBPQ_溪谷","name":"🌊溪谷影视(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/zy/xBPQ/溪谷.json"},
