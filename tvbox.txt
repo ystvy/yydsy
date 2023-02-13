@@ -15,9 +15,9 @@
             "url": "http://我不是.肥猫.love:63",
             "name": "🚀肥猫线路"
         }, 
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "巧技"
+         {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "🚀道长线路"
         },
         {
             "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
@@ -33,7 +33,19 @@
         },
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "🚀月光宝盒"
+            "name": "🚀月光宝盒1"
+        }, 
+        {
+            "url": "https://app.easybox.vip/dy",
+            "name": "🚀easybox线路"
+        },  
+        {
+            "url": "http://52bsj.vip:98/cl",
+            "name": "🐹月光宝盒"
+        },  
+        {
+            "url": "https://gitlab.com/ygbh1/666/-/raw/main/PRO.json",
+            "name": "🐹月光宝盒Pro"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
@@ -44,11 +56,15 @@
             "name": "🚀吾爱线路"
         },
         {
+            "url": "http://8.210.220.114:8888/down/cgAGS4qg9ZXn.json",
+            "name": "🐹星辰线路"
+        },   
+        {
             "url": "http://8.210.220.114:8888/down/c9s9YQVDdqYw.json",
-            "name": "🚀星辰线路"
+            "name": "🚀星辰线路2"
         },
         {
-            "url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
+            "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "🚀潇洒线路"
         },
         {
@@ -67,6 +83,10 @@
             "url": "http://饭太硬.ga/x/o.json",
             "name": "🐹饭太硬线路"
         },
+          {
+            "url": "https://源享家.ml/tv",
+            "name": "🐹源享家线路"
+        }, 
         {
             "url": "http://byyds.top/w.txt",
             "name": "🐹BYYDS线路"
