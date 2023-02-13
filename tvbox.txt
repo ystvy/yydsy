@@ -38,11 +38,11 @@
         {
             "url": "https://app.easybox.vip/dy",
             "name": "🚀easybox线路"
-        },  
+        },
         {
             "url": "http://52bsj.vip:98/cl",
             "name": "🐹月光宝盒"
-        },  
+        }, 
         {
             "url": "https://gitlab.com/ygbh1/666/-/raw/main/PRO.json",
             "name": "🐹月光宝盒Pro"
@@ -86,7 +86,7 @@
           {
             "url": "https://源享家.ml/tv",
             "name": "🐹源享家线路"
-        }, 
+        },
         {
             "url": "http://byyds.top/w.txt",
             "name": "🐹BYYDS线路"
