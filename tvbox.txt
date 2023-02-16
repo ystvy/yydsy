@@ -83,14 +83,6 @@
             "url": "http://饭太硬.ga/x/o.json",
             "name": "🐹饭太硬线路"
         },
-          {
-            "url": "HTTP://AMTV.GA",
-            "name": "🐹AMTV线路"
-        },
-         {
-            "url": "HTTP://AMTV.GA/PY",
-            "name": "🐹AMTV PY线路"
-        },
         {
             "url": "http://byyds.top/w.txt",
             "name": "🐹BYYDS线路"
