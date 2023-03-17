@@ -8,7 +8,7 @@
             "name": "🔔多多线路"
         },
         {
-            "url": "https://yydsys.top/duo/m.json",
+            "url": "https://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         }, 
         {
