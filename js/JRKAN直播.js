@@ -8,9 +8,10 @@
 // Pluto Player官方TG https://t.me/PlutoPlayer
 // Pluto Player官方TG https://t.me/PlutoPlayerChannel
 
+
 var rule = {
     title:'JRKAN直播',
-    host:'http://m.jrkan2023.com',
+    host:'http://m.jrskan8.com/',
 	// JRKAN备用域名:m.jrskan8.com / m.jrkan666.com / jryyds.com / jrsbxj.com
 	// JRKAN网址发布:qiumi1314.com
     url:'/fyclass',
