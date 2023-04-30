@@ -5,7 +5,7 @@
 "二次截取":"class=\"module-items&&<div class=\"fixedGroup",
 "数组":"<a&&module-poster-item-info",
 "副标题":"class=\"module-item-cover\"&&<!--",
-"搜索url": "https://yanaifei.com/vodsearch/{wd}----------{pg}---.html",
+"搜索url": "https://yanaifei.com/vod/show/{wd}----------{pg}---.html",
 "搜索模式": "1",
 "搜索二次截取": "",
 "搜索数组":"module-item\">&&</a>",
@@ -26,8 +26,8 @@
 "播放标题":"span>&&<",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
-"分类": "电影$dianying#电视剧$lianxuju#动漫$dongman#综艺$zongyi",
-"分类url":"https://yanaifei.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
+"分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+"分类url":"https://yanaifei.com/vod/show/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "dianying":[
 {
