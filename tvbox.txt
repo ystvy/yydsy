@@ -4,8 +4,11 @@
             "url": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
         },{
-            "url": "https://yydsys.top/duo/v.json",
-            "name": "🔔多多线路"
+            "url": "https://agit.ai/ystvy/gaobox/raw/branch/master/0821.json",
+            "name": "gao线路"
+        },{
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "巧计线路"
         },
         {
             "url": "https://yydsys.top/duo",
@@ -52,7 +55,7 @@
             "name": "🚀老刘备线路"
         },
         {
-            "url": "http://52bsj.vip:98/wuai",
+            "url": "http://52bsj.vip:98/0805",
             "name": "🚀吾爱线路"
         },
         {
@@ -132,7 +135,7 @@
             "name": "💎俊佬线路"
         }, 
         {
-            "url": "https://hutool.ml/tang",
+            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
             "name": "💎唐三线路"
         },
         {
