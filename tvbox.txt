@@ -3,10 +3,12 @@
         {
             "url": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json",
             "name": "YSTV线路"
-        },{
+        },
+        {
             "url": "https://agit.ai/ystvy/gaobox/raw/branch/master/0821.json",
             "name": "gao线路"
-        },{
+        },
+        {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "巧计线路"
         },
