@@ -21,7 +21,7 @@
 {"key":"影探","name":"👿影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/"},
 {"key":"酷影","name":"🚀酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"],"ext":"http://ys.realdou.cn/api.php/app/"},
 {"key":"蘑菇","name":"🍄蘑菇","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.moguys.xyz/api.php/app/"},
-{"key":"狐狸","name":"🦊狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+
 {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"迷你库","name":"Ⓜ️迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
@@ -62,6 +62,7 @@
 {"key":"金鹰资源","name":"金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json","playUrl": "https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"速播资源","name":"速播资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod/at/json","playUrl": "https://subojiexi.com/play/?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"光速资源","name":"光速资源","type":0,"api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/","playUrl": "https://www.gszyv.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"极速资源","name":"极速资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","playUrl": "https://jsjiexi.com/play/?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"新浪资源","name":"新浪资源","type":0,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/","playUrl": "https://www.xinlangjiexi.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天空资源","name":"天空资源","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","playUrl": "","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
