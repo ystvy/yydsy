@@ -52,6 +52,10 @@
       "url": "https://agit.ai/ystvy/gaobox/raw/branch/master/XYQ.json",
       "name": "高天流云 XYQ"
     },
+    {
+      "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
+      "name": "不良帅线路"
+     },
          {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
@@ -85,8 +89,8 @@
             "name": "🐹月光宝盒"
         }, 
         {
-            "url": "https://gitlab.com/ygbh1/666/-/raw/main/PRO.json",
-            "name": "🐹月光宝盒Pro"
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🐹小米线路"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
@@ -127,14 +131,6 @@
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "🐹云星家庭"
-        },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/bili.json",
-            "name": "🐹云星哔哩"
-        },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/ali.m3u8",
-            "name": "🐹云星阿里"
         },
         {
             "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
