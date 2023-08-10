@@ -81,7 +81,7 @@
             "name": "🚀easybox线路"
         },
         {
-            "url": "http://52bsj.vip:98/cl",
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
             "name": "🐹月光宝盒"
         }, 
         {
@@ -97,28 +97,16 @@
             "name": "🚀吾爱线路"
         },
         {
-            "url": "http://js.134584.xyz/json/pp87.json",
+            "url": "hthttp://8.210.232.168/xc.json",
             "name": "🐹星辰线路"
         },   
-        {
-            "url": "http://8.210.220.114:8888/down/c9s9YQVDdqYw.json",
-            "name": "🚀星辰线路2"
-        },
-        {
+       {
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "🚀潇洒线路"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🚀南风线路"
-        },
-        {
-            "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "🚀乱世线路"
-        }, 
-        {
-            "url": "http://111.67.196.181/mtv/meow.txt",
-            "name": "🐹太阳线路"
         },
         {
             "url": "http://饭太硬.top/tv",
@@ -157,7 +145,7 @@
             "name": "🐹zzz1线路"
         },
         {
-            "url": "http://www.yunwp.cn/api/v3/file/get/1093/1007.json?sign=kJ5EJJLNzf63QKB1ykTZwbbW9vnMfi-2Wjumk-wtL-E%3D%3A0",
+            "url": "https://szyyds.cn/tv/x.json",
             "name": "🐹小马线路"
         },
                 {
@@ -193,11 +181,11 @@
             "name": "💎dxawi0线路"
         },
         {
-            "url": "http://dxawi.github.io/0/1.json",
-            "name": "💎dxawi1线路"
+            "url": "http://miaotvs.cn/meow",
+            "name": "💎喵影视线路"
         },
         {
-            "url": "https://raw.fastgit.org/tv-player/tvbox-line/main/tv/fj.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
             "name": "💎一影视线路"
         },
         {
@@ -209,8 +197,8 @@
             "name": "💎FreeTV线路"
         },
         {
-            "url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox",
-            "name": "💎二哈线路"
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "name": "💎欧歌线路"
         },
         {
             "url": "https://raw.fastgit.org/chengxueli818913/TVBox/main/sc.json",
