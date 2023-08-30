@@ -11,7 +11,7 @@
 "筛选": {
 "dianying":[
   {"key":"class","name":"剧情","value":[
-  {"n":"全部","v":"dianying"},
+  {"n":"全部","v":""},
   {"n":"喜剧","v":"xijupian"},
   {"n":"动作","v":"dongzuopian"},
   {"n":"科幻","v":"kehuanpian"},
@@ -70,7 +70,7 @@
   
 "dianshiju":[
   {"key":"class","name":"剧情","value":[
-  {"n":"全部","v":"dianshiju"},
+  {"n":"全部","v":""},
   {"n":"国产剧","v":"guochanju"},
   {"n":"港台剧","v":"gangtaiju"},
   {"n":"日韩剧","v":"rihanju"},
