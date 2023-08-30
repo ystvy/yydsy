@@ -1,7 +1,7 @@
 {
   "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman",
   "分类url":"https://www.bei5dy.net/type/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-  "线路数组": "<a href=\"#container&&</div>",
+  "线路数组": "<a href=\"#play&&</li>",
   "线路标题": ">&&</a>",
   "简介": "display: none;\">&&</span>",
   "播放数组":"class=\"stui-content__playlist clearfix &&</ul>",
