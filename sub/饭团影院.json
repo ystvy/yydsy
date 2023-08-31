@@ -1,8 +1,9 @@
 {
 "作者":"张弘",
 "站名":"饭团影视HD",
-"主页url":"https://www.fantuanhd.com/",
-"数组": "<a class=\"stui-vodlist__thumb&&</a>",
+"请求头":"Cookie$PHPSESSID=oa18972o947a5f2cuuhni0tc07; Hm_lvt_a4d1dc00e59cb76eda39cd5a5402f863=1686998487; Hm_lpvt_a4d1dc00e59cb76eda39cd5a5402f863=1686998537",
+"主页url":"https://www.fantuan3.com/",
+"数组": "<a class=\"stui-vodlist__box&&</li>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
@@ -18,7 +19,7 @@
 "播放列表":"<a&&/a>",
 "播放标题":">&&<",
 "播放链接":"href=\"&&\"",
-"搜索url":"/search/page/{pg}/wd/{wd}.html",
+"搜索url":"https://www.fantuanhd.com/type/id-.html?wd={wd}",
 "搜索模式":"1",
 "搜索数组":"<a class=\"stui-vodlist__thumb&&</a>",
 "搜索图片":"data-original=\"&&\"",
@@ -26,8 +27,8 @@
 "搜索链接":"href=\"&&\"",
 "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
 "免嗅":"1",
-"分类":"电影$20#电视剧$21#综艺$22#动漫$23#记录片$24#动画片$25",
-"分类url":"https://www.fantuanhd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#记录片$5",
+"分类url":"https://www.fantuanhd.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
 "20":[
 {
