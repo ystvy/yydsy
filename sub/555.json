@@ -2,7 +2,7 @@
 "站名":"555",
 "主页url":"https://www.555dyy1.com/",
 "请求头": " Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36",
-
+"数组": "class=\"module-items module-poster-items-base&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
@@ -18,8 +18,5 @@
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 
 "分类url":"https://www.555dyy1.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
-"线路数组": "data-dropdown-value=&&</div>",
-"线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
-  
-"播放数组": "module-play-list\">&&</div>"
+
 }
