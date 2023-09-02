@@ -15,10 +15,9 @@
 "嗅探词":".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com",
 "搜索模式": "0",
 "搜索后缀":"/voddetail/",
-/"分类":"Netflix$label/netflix#电影$vodtype/1#电视剧$vodtype/2#综艺$vodtype/3#动漫$vodtype/4",/
-"分类": "Netflix&电影&连续剧&动漫&综艺记录",
-"分类值": "/label/netflix&/vodtype/1&/vodtype/2&/vodtype/4&/vodtype/3",
-"分类url":"https://www.555dyy1.com{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+
+"分类url":"https://www.555dyy1.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
 "线路数组": "data-dropdown-value=&&</div>",
 "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
   
