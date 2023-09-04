@@ -205,6 +205,14 @@
           "name":"🚀神器线路"
         },
         {
+          "url":"https://agit.ai/ystvy/gaobox/raw/branch/master/cat.json",
+          "name":"高天流云 CAT"
+        },
+        {
+          "url":"https://agit.ai/ystvy/gaobox/raw/branch/master/lf.json",
+          "name":"高天流云 LF"
+        },
+        {
           "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
            "name":"🚀元兴线路"
         }
