@@ -55,7 +55,7 @@
 {"key":"新浪资源","name":"新浪资源","type":0,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/","playUrl": "https://www.xinlangjiexi.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天空资源","name":"天空资源","type":0,"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/","playUrl": "","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"暴风资源","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"量子资源","name":"量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","playUrl": "","searchable":1,"quickSearch":1},
+{"key":"量子资源","name":"量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl": "https://lziplayer.com/?url=","searchable":1,"quickSearch":1},
 {"key":"大漠资源","name":"大漠资源","type":1,"api":"https://damozy.com/api.php/provide/vod/?ac=list","playUrl": "https://www.damojx.com/dm/dm.html?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"1080资源","name":"1080资源","type":1,"api":"https://api.hdzykapi.com/inc/apijson.php","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源","type":0,"api":"https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml","searchable":1,"quickSearch":1},
