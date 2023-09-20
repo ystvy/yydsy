@@ -3,7 +3,8 @@
 	//"lives": [{ "group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=https://agit.ai/ystvy/yydsy/raw/branch/master/xmdszb.txt"]}]}],
 "sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://agit.ai/ystvy/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/豆瓣.js"},
+{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"YGP","name":"荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"dr_酷云","name":"酷云七七(js)","type":3,"api":"https://agit.ai/ystvy/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/kuyu77.js"},
 {"key":"SP360","name":"💘360影视","api":"csp_SP33","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/农民影视.json"},
