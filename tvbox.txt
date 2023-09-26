@@ -213,6 +213,10 @@
           "name":"高天流云 LF"
         },
         {
+          "url":"https://raw.liucn.cc/box/xiaopingguo.json",
+          "name":"小苹果线路"
+        },
+        {
           "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
            "name":"🚀元兴线路"
         }
