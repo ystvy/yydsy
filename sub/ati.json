@@ -388,7 +388,7 @@
 		"type": 0,
 		"url": "https://okjx.cc/?url="
 	}],
-  "lives": [{"name": "live","type": 0,"url": "https://agit.ai/ystvy/yydsy/raw/branch/master/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+  "lives": [{"name": "live","type": 0,"url": "https://agit.ai/ystvy/yydsy/raw/branch/master/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
     
    "rules": [
 	{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
