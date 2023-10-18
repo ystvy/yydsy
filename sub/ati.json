@@ -70,7 +70,7 @@
 {"key":"量子资源","name":"量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/","playUrl": "https://lziplayer.com/?url=","searchable":1,"quickSearch":1},
 {"key":"大漠资源","name":"大漠资源","type":1,"api":"https://damozy.com/api.php/provide/vod/?ac=list","playUrl": "https://www.damojx.com/dm/dm.html?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"1080资源","name":"1080资源","type":1,"api":"https://api.hdzykapi.com/inc/apijson.php","searchable":1,"quickSearch":1},
-{"key":"iKun资源","name":"iKun资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/at/json","playUrl":"https://www.ikdmjx.com/?url=","searchable":1,"quickSearch":1},
+{"key":"iKun资源","name":"iKun资源","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源","type":0,"api":"https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/at/xml","searchable":1,"quickSearch":1},
 {"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"飞速资源","name":"飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
