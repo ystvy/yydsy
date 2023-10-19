@@ -8,6 +8,7 @@
 {"key":"dr_酷云","name":"酷云七七(js)","type":3,"api":"https://agit.ai/ystvy/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/kuyu77.js"},
 {"key":"SP360","name":"💘360影视","api":"csp_SP33","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/农民影视.json"},
+{"key":"七月","name":"💖七月影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/七月影视.json"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 {"key":"dr_荐片","name":"荐片","type":3,"api":"https://agit.ai/ystvy/dr_py/raw/branch/main/libs/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/荐片.js"},
