@@ -13,11 +13,11 @@
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 {"key":"dr_荐片","name":"荐片","type":3,"api":"https://agit.ai/ystvy/dr_py/raw/branch/main/libs/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/荐片.js"},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp", "playerType": 2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzy88.com/"},
-{"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
 
 
-{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+
 
 {"key":"探探","name":"影探┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"key": "哈喽","name": "✌哈喽┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://www.miniku.cc/xgapp.php/v1/"},
