@@ -2,7 +2,7 @@
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	//"lives": [{ "group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=https://agit.ai/ystvy/yydsy/raw/branch/master/xmdszb.txt"]}]}],
 "sites":[
-{"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"YGP","name":"荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"dr_酷云","name":"酷云七七(js)","type":3,"api":"https://agit.ai/ystvy/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/kuyu77.js"},
