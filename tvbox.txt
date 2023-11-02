@@ -37,8 +37,8 @@
       "name": "高天流云 FM"
     },
     {
-      "url": "https://agit.ai/ystvy/gaobox/raw/branch/master/0828.json",
-      "name": "高天流云 TS"
+      "url": "https://agit.ai/ystvy/gaobox/raw/branch/master/0822.json",
+      "name": "高天流云 FM"
     },
     {
       "url": "https://agit.ai/ystvy/gaobox/raw/branch/master/js.json",
