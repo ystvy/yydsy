@@ -535,60 +535,6 @@ Astrakhan24,https://streaming.astrakhan.ru/astrakhan24/index.m3u8
 VB,https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
-💘香港台,#genre#
-香港凤凰卫视,http://php.17186.eu.org/phtv/fhzw.m3u8
-香港凤凰卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-香港凤凰卫视,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
-香港凤凰卫视,http://112.102.214.193:65530/live/fhzw/index.m3u8
-香港凤凰卫视,http://113.207.84.195:8090/__cl/cg:live/__c/xfjcHD/__op/default/__f/index.m3u8
-凤凰资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰资讯台,http://112.102.214.193:65530/live/fhzx/index.m3u8
-凤凰资讯台,http://112.102.214.193:65530/live/fhzx/index.m3u8
-凤凰资讯台,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-中天新闻,https://p.ggiptv.com/vplay.php?token=JX97aLOF2hUwPn3oXcZH1j1z&tid=wintv123&id=43&p=0
-中天新闻,https://p.ggiptv.com/vplay.php?token=JX97aLOF2hUwPn3oXcZH1j1z&tid=wintv123&id=43&p=1
-台湾华视,https://p.ggiptv.com/vplay.php?token=eZqZGJeas0PUO5q2CFqhoJaN&tid=wintv123&id=50&p=0
-台湾华视,https://p.ggiptv.com/vplay.php?token=eZqZGJeas0PUO5q2CFqhoJaN&tid=wintv123&id=50&p=1
-台湾台视,https://epg.pw/stream/803c791208b40e0816487d6afdfe8d3a019712b6655f68c31725d20958253b99.m3u8
-台湾台视,https://epg.pw/stream/6343a9f5faa4503789d87f9b034c6882454f3a5c47036b35685700a28fd30270.m3u8
-台湾中视,https://p.ggiptv.com/vplay.php?token=cp3OGZedsUPUO5q2CFqho52N&tid=wintv123&id=50&p=0
-台湾中视,https://p.ggiptv.com/vplay.php?token=cp3OGZedsUPUO5q2CFqho52N&tid=wintv123&id=50&p=1
-东森新闻,https://p.ggiptv.com/vplay.php?token=WVbDhT3oXgqiyyejhK5lRpWd&tid=wintv123&id=44&p=0
-东森新闻,https://p.ggiptv.com/vplay.php?token=WVbDhT3oXgqiyyejhK5lRpWd&tid=wintv123&id=44&p=1
-东森新闻,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-366df6b1-563a-4aeb-a0cc-752cc70eec06.m3u8?
-TVB翡翠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9427dd7d-ea1a-47c2-83b3-d6f6cf1151d1.m3u8
-测试,https://pull-l3-cny.douyincdn.com/live/92bfb071f054c95ff91f7c099b526c9e.flv
-东风37台,https://epg.pw/stream/414c7bfc8364c08e6f089b8aaddaba6abf39a96c50afe7d6352a30b8322f4309.m3u8
-龙华戏剧台,http://61.219.170.95:18507/.m3u8
-东森电影,http://171.108.239.12:8181/tsfile/live/1010_1.m3u8
-东森电影,http://120.84.96.32:808/hls/32/index.m3u8
-东森超视,http://59.125.122.90:18555/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
-凤凰电影,https://epg.pm/stream/0f1d0ac861db75da20b47738aa5bf789d32129acb76481dd281ee09d4b9d33a5.m3u8
-凤凰电影,https://epg.pm/stream/3faefe9496fcc77a959a89eb0605e8c02f77cdc477845c6c7f2e9dc2a677a70f.m3u8
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-NHK世界FHD,http://61.219.170.95:18525/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
-緯來戲劇,http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
-MUCH TV,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
-廈門衛視,http://61.219.170.95:18531/http/192.168.1.9:8078/hls/42/80/xmtv.m3u8
-凰衛視資訊,http://61.219.170.95:18565/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8
-momo 綜合台,http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
-龍華偶像劇,http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-GTV八大综合台,http://61.219.170.95:18517/.m3u8
-八大第一FHD,http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
-龍華日韓劇,http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
-東風衛視,http://61.219.170.95:18560/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
-Star World,http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
-湖南衛視,http://61.219.170.95:18536/http/192.168.1.9:8078/hls/41/80/huana.m3u8
-鳯凰衛視中文,http://61.219.170.95:18566/http/192.168.1.9:8078/hls/21/80/phoenixch.m3u8
-大愛電視,http://61.219.170.95:18567/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
-衛視電影FHD,http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
-海峽衛視FHD,http://61.219.170.95:18533/http/192.168.1.9:8077/hls/42/80/fjttv.m3u8
-江蘇衛視,http://61.219.170.95:8547/http/192.168.1.9:8078/hls/42/80/cctv13.m3u8
-衛視中文FHD,http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
-東森新聞,http://59.125.101.187:9608/http/116.50.42.18:8081/hls/63/805/ch10.m3u8
-寰宇新闻,http://59.125.101.187:9874/http/116.50.42.18:8081/hls/76/818/ch62.m3u8
 
 少儿频道,#genre#
 空中课堂_一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
