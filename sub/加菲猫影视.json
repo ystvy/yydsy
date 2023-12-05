@@ -15,6 +15,8 @@
 "播放数组":"xjn_li&&</ul>",
 "播放标题":">&&</a>",
 "播放列表":"<a&&</a>",
+"搜索url":"http://xzzyz.vip/index.php/vod/search.html",
+"搜索链接":"href=\"&&\"",
 "搜索模式": "0",
 "分类":"电影$1#电视剧$2#综艺$4#动漫$3",
 "分类url":"http://xzzyz.vip/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html"
