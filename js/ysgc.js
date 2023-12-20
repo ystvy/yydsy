@@ -3,7 +3,7 @@ muban.首图.二级.content = '.text-collapse p&&Text';
 var rule = {
 	title:'影视工场',
 	模板:'首图',
-	host:'https://www.ysgc.fun',
+	host:'https://www.ysgc1.cc',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	// url:'/vodshow/fyclass-{{fl.area}}-{{fl.by}}-{{fl.class}}-----fypage---{{fl.year}}.html',
 	url:'/vodshow/fyclassfyfilter.html',
