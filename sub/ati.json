@@ -4,7 +4,7 @@
 "sites":[
 {"key": "电影先生","name": "️电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/电影先生.json"},
 {"key": "加菲猫影视","name": "️加菲猫影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/加菲猫影视.json"},
-{"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/ystvy/yydsy/raw/branch/master/jar/fty.jar"},
+{"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"YGP","name":"荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"dr_酷云","name":"酷云七七(js)","type":3,"api":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/kuyu77.js"},
