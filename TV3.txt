@@ -1,6 +1,6 @@
 {
 "storeHouse": [
-{"sourceName":"💚YSTVY仓","sourceUrl":"https://agit.ai/ystvy/yydsy/raw/branch/master/tvbox.txt"},
+{"sourceName":"💚YSTVY仓","sourceUrl":"https://agit.ai/ystvy/yydsy/raw/branch/master/x.txt"},
         {
             "sourceName": "🏆星河💙仓🏆",
             "sourceUrl": "https://agit.ai/pinghui/xinghe/raw/commit/272fbb5697a8aa6abb60c7bd76252f9c13c89a24/ronghe.txt"
