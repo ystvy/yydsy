@@ -4,10 +4,10 @@
 "sites":[
 {"key": "电影先生","name": "️电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/电影先生.json"},
 {"key": "加菲猫影视","name": "️加菲猫影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/加菲猫影视.json"},
-{"key":"77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"YGP","name":"荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-{"key":"dr_酷云","name":"酷云七七(js)","type":3,"api":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/kuyu77.js"},
+{"key":"dr_酷云","name":"酷云七七(js)","type":3,"api":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/kuyu77.js"},
 {"key":"SP360","name":"💘360影视","api":"csp_SP33","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/农民影视.json"},
 {"key":"七月","name":"💖七月影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/七月影视.json"},
