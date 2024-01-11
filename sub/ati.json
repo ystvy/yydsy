@@ -26,7 +26,7 @@
 {"key": "陌陌","name": "🍄陌陌┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 {"key": "奇奇","name": "🍓奇奇┃App","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key": "率率","name": "💡率率┃App","type": 3,"api": "csp_AppYsV2","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://ttsp.live/api.php/app/"},
-{"key":"影视之家","name":"影视之家","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yszj.vip/xgapp.php/v2/"},
+{"key":"影视之家","name":"影视之家","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yszj.vip/api.php/v2/"},
 {"key":"酷酷","name":"🚀酷酷","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
 {"key":"彩虹","name":"🌈彩虹","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key":"爱迪","name":"🍟爱迪","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
