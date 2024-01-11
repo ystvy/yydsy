@@ -12,7 +12,7 @@
 "简介":"简介：&&</p>", 
 "线路数组":"data-toggle=&&</li>",
 "线路标题":">&&</a>",
-"播放数组":"stui-content__playlist clearfix sort-list&&</li>",
+"播放数组":"stui-content__playlist&&</ul>",
 "播放标题":">&&</a>",
 "播放列表":"<li&&</li>",
 "搜索模式": "0",
