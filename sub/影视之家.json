@@ -1,7 +1,7 @@
 {
 "站名":"影视之家",
 "主页url":"https://www.yszj.vip/",
-"数组": "stui-vodlist clearfix&&</ul>",
+"数组": "stui-vodlist__thumb&&</li>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
