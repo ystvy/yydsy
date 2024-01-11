@@ -1,6 +1,6 @@
 {
 "站名":"影视之家",
-"主页url":"https://www.yszj.vip/",
+"主页url":"https://www.8484.tv/",
 "数组": "stui-vodlist__thumb&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
@@ -17,5 +17,5 @@
 "播放列表":"<li&&</li>",
 "搜索模式": "0",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#少儿$31",
-"分类url":"https://yszj.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+"分类url":"https://www.8484.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 }  
