@@ -656,6 +656,33 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 
+📺港台频道,#genre#
+凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰卫视,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+翡翠台,mitv://generationnexxxt.com:19806/222f28eff08c40c2a2f10773500188be
+翡翠台,mitv://generationnexxxt.com:19806/642915c2000ad9bea251c1bd3bed24f7
+凤凰资讯,http://113.117.74.99:8081/hls/36/index.m3u8
+凤凰中文,http://113.117.74.99:8081/hls/37/index.m3u8
+凤凰香港,http://113.117.74.99:8081/hls/38/index.m3u8
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://www.372583307.top:4022/udp/233.50.200.191:5140
+凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
+凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
+无线新闻台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153399
+凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
+翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
+凤凰资讯,http://lhome.shuaigebo.top:8686/udp/239.93.34.4:2191
+凤凰中文,http://lhome.shuaigebo.top:8686/udp/239.93.34.9:2192
+无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+无线新闻,http://feng163.com:9001/bysid/83
+翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 
 斗鱼,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
