@@ -65,7 +65,7 @@
             "name": "🚀道长线路"
         },
         {
-            "url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
+            "url": "https://agit.ai/cyl518/yl/raw/branch/master/pytv.json",
             "name": "胖丫"
         },
         {
