@@ -25,7 +25,7 @@
             "name": "加合线路"
         },
         {
-            "url": "https://www.bestpvp.site/关注码上放生/时光机",
+            "url": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/main.json",
             "name": "🏡码上放生"
         },  
         {
@@ -73,7 +73,7 @@
             "name": "刘C"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json",
+            "url": "https://agit.ai/ystvy/cltv/raw/branch/master/%e9%a6%99%e9%9b%85%e6%83%85XYQ/api.json",
             "name": "🚀香雅情线路"
         },
         {
