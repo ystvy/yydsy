@@ -120,6 +120,19 @@
             "url": "http://饭太硬.top/tv",
             "name": "🐹饭太硬线路"
         },
+        { "url": "http://fan.xxooo.cf/tv", "name": "饭太硬（备用）" },
+        { "url": "https://100km.top/0", "name": "骚零" },
+
+        { "url": "http://tv.rihou.cc/天天开心", 
+         "name": "天天开心" },
+
+        { "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
+
+        { "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json", "name": "短剧频道" },
+
+        { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" },
+
+        { "url": "https://www.yingm.cc/dm/dm.json", "name": "动漫频道" },
         {
           "url": "https://weixine.net/ysc.json",
             "name": "🚀运输车(有跑马灯)"
@@ -207,14 +220,6 @@
        {
           "url":"https://神器每日推送.tk/pz.json",
           "name":"🚀神器线路"
-        },
-        {
-          "url":"https://agit.ai/ystvy/gaobox/raw/branch/master/cat.json",
-          "name":"高天流云 CAT"
-        },
-        {
-          "url":"https://agit.ai/ystvy/gaobox/raw/branch/master/lf.json",
-          "name":"高天流云 LF"
         },
         {
           "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
