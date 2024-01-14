@@ -85,8 +85,8 @@
             "name": "🚀月光宝盒1"
         }, 
         {
-            "url": "https://app.easybox.vip/dy",
-            "name": "🚀easybox线路"
+            "url": "https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
+            "name": "🚀月儿线路"
         },
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
@@ -138,6 +138,10 @@
             "name": "🚀运输车(有跑马灯)"
         },
         {
+            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+            "name": "🐹运输车线路"
+        },
+        {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
             "name": "🐹分享者线路"
         },
@@ -182,8 +186,8 @@
             "name": "💎甜蜜线路"
         },
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "💎霜辉月明py"
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name": "🐱夜猫子"
         },
         {
             "url": "https://tvbox.cainisi.cf",
