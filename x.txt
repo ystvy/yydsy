@@ -210,16 +210,16 @@
             "name": "🏄️无意线路"
         },
         {
-            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
-            "name": "🏄️夜猫子"
+            "url": "https://wds.ecsxs.com/230989.json",
+            "name": "🏄️春盈线路"
         },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
             "name": "💎欧歌线路"
         },
         {
-            "url": "https://raw.fastgit.org/chengxueli818913/TVBox/main/sc.json",
-            "name": "💎chengxueli线路"
+            "url": "http://xiaohu.xzam.cn/xiaohu",
+            "name": "💎小胡线路"
         },
        {
           "url":"https://神器每日推送.tk/pz.json",
