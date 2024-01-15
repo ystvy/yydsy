@@ -198,20 +198,20 @@
             "name": "💎dxawi0线路"
         },
         {
-            "url": "http://miaotvs.cn/meow",
+            "url": "http://meowtv.cn/tv",
             "name": "💎喵影视线路"
         },
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
-            "name": "💎一影视线路"
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
+            "name": "💎不良帅线路"
         },
         {
-            "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
-            "name": "💎佰欣园线路"
+            "url": "http://www.wya6.cn/tv/yc.json",
+            "name": "🏄️无意线路"
         },
         {
-            "url": "https://raw.fastgit.org/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-            "name": "💎FreeTV线路"
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name": "🏄️夜猫子"
         },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
