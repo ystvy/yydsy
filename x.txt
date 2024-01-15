@@ -166,7 +166,7 @@
             "name": "🐹小马线路"
         },
                 {
-            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/lem.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/雷蒙影视.bmp",
             "name": "👦雷蒙影视"
         },
         {
