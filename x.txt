@@ -226,8 +226,8 @@
           "name":"🚀神器线路"
         },
         {
-          "url":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
-           "name":"🚀元兴线路"
+          "url":"http://sx.liuyun.wang:88/img",
+           "name":"🐹神仙线路"
         }
     ]
 }
