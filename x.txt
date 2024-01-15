@@ -89,8 +89,8 @@
             "name": "🚀月儿线路"
         },
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-            "name": "🐹月光宝盒"
+            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86JS.bmp",
+            "name": "👦雷蒙影视JS"
         }, 
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
@@ -166,12 +166,12 @@
             "name": "🐹小马线路"
         },
                 {
-            "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
-            "name": "🐹D大线路"
+            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86.bmp",
+            "name": "👦雷蒙影视"
         },
         {
-            "url": "http://101.34.67.237/config/3",
-            "name": "💎小雅JS线路"
+            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86WP.bmp",
+            "name": "👦雷蒙影视网盘"
         },
         {
             "url": "http://home.jundie.top:81/top98.json",
