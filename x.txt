@@ -89,7 +89,7 @@
             "name": "🚀月儿线路"
         },
         {
-            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86JS.bmp",
+            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/lemj.json",
             "name": "👦雷蒙影视JS"
         }, 
         {
@@ -166,11 +166,11 @@
             "name": "🐹小马线路"
         },
                 {
-            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86.bmp",
+            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/lem.json",
             "name": "👦雷蒙影视"
         },
         {
-            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86WP.bmp",
+            "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/lempg.json",
             "name": "👦雷蒙影视网盘"
         },
         {
