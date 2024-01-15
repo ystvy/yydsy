@@ -178,8 +178,8 @@
             "name": "💎俊佬线路"
         }, 
         {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "💎唐三线路"
+            "url": "https://agit.ai/ystvy/YUU/raw/branch/master/Pandora.json",
+            "name": "💎KVYMIN线路"
         },
         {
             "url": "https://raw.kgithub.com/kebedd69/TVbox-interface/main/甜蜜.json",
