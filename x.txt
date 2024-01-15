@@ -89,6 +89,10 @@
             "name": "🚀月儿线路"
         },
         {
+            "url": "https://www.macms.pro/box/3.json",
+            "name": "💎万达线路"
+        },
+        {
             "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/lemj.json",
             "name": "👦雷蒙影视JS"
         }, 
@@ -165,7 +169,11 @@
             "url": "https://szyyds.cn/tv/x.json",
             "name": "🐹小马线路"
         },
-                {
+         {
+            "url": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
+            "name": "🏄️圆周率线路"
+        },
+        {
             "url": "https://agit.ai/ystvy/N3RD/raw/branch/master/JN/lem.json",
             "name": "👦雷蒙影视"
         },
