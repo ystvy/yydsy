@@ -77,7 +77,7 @@
             "name": "🚀香雅情线路"
         },
         {
-            "url": "https://cn.kstore.space/download/2863/01.txt",
+            "url": "https://agit.ai/ystvy/TVBox/raw/branch/main/api.json",
             "name": "💕潇洒线路"
         },
         {
