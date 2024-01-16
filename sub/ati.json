@@ -1,4 +1,4 @@
-{"spider": "./jar/yv.jar",
+{"spider": "./jar/fty.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	//"lives": [{ "group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./xmdszb.txt"]}]}],
 "sites":[
