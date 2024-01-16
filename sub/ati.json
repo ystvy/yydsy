@@ -1,4 +1,4 @@
-{"spider": "./jar/fty.jar",
+{"spider": "./jar/yv.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	//"lives": [{ "group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./xmdszb.txt"]}]}],
 "sites":[
@@ -18,7 +18,7 @@
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"Ysgc","name":"🎥影视工厂","type":3,"api":"./js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/ysgc.js"},
 {"key":"csp_Cs1369","name":"🎀九六","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DiDuan","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
 
 {"key":"探探","name":"影探┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://wvvipcms.lyyytv.cn/api.php/app/"},
@@ -346,7 +346,7 @@
 		"url": "https://www.pouyun.com/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-		} , 
+		}, 
 	{
 		"name": "Q1官解",
 		"type": 1,
@@ -396,7 +396,7 @@
 		"type": 0,
 		"url": "https://okjx.cc/?url="
 	}],
-  //"lives": [{"name": "live","type": 0,"url": "./lives.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+    "lives": [{"name": "live","type": 0,"url": "./lives.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
     "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],  
    "rules": [
