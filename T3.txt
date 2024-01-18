@@ -27,7 +27,7 @@
             "sourceUrl": "https://agit.ai/butterfly/md/raw/branch/Zaku/master/DCmain3.jpg"
         },
        {
-            "sourceName": "🧡自用🍑1仓🧡",
+            "sourceName": "🧡🍑1仓🧡",
             "sourceUrl": "https://agit.ai/ystvy/cltv/raw/branch/master/%e8%87%aa%e7%94%a8.txt"
         },
         {
