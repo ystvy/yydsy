@@ -27,6 +27,10 @@
         {
             "url": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/main.json",
             "name": "🏡码上放生"
+        },
+        {
+            "url": "https://agit.ai/leevi/PG/raw/branch/master/jsm.json",
+            "name": "🚀PG线路"
         },  
         {
       "url": "https://agit.ai/ystvy/gaobox/raw/branch/master/0825.json",
