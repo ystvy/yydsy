@@ -1,5 +1,6 @@
 {"spider": "https://agit.ai/ystvy/yydsy/raw/branch/master/jar/yv.jar",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+	// 数据接口【Type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫】【searchable:0不可以1可以quickSearch:可快速搜索0不可以 1可以filterable:可筛选0不可以1可以】
 	//"lives": [{ "group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./xmdszb.txt"]}]}],
 "sites":[
 {"key": "电影先生","name": "️电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/电影先生.json"},
