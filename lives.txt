@@ -1,43 +1,63 @@
 央视,#genre#
-CCTV1,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv1
-CCTV2,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv2
-CCTV3,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv3
-CCTV4,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv4
-CCTV5,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv5
-CCTV6,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv6
-CCTV7,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv7
-CCTV8,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv8
-CCTV9,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv9
-CCTV10,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv10
-CCTV11,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv11
-CCTV12,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv12
-CCTV13,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv13
-CCTV14,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv14
-CCTV15,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv15
-CCTV16,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv16
-CCTV17,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv17
+CCTV1,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
+CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
+CCTV3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
+CCTV4,http://1.195.111.251:11190/tsfile/live/0004_1.m3u8
+CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
+CCTV6,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
+CCTV7,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
+CCTV8,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
+CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
+CCTV10,http://1.195.111.251:11190/tsfile/live/0010_1.m3u8
+CCTV11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
+CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
+CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
+CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
+CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
 CCTV5+,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv5p
 
-CCTV-1 综合,https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
-CCTV-2 财经,https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
-CCTV-3 综艺,https://live.goodiptv.club/api/sxg.php?id=CCTV-3H265_4000
-CCTV-4 中文国际,https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
-CCTV-5 体育,https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
-CCTV-5+ 体育赛事,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
-CCTV-6 电影,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
-CCTV-7 国防军事,https://live.goodiptv.club/api/sxg.php?id=CCTV-7H265_4000
-CCTV-8 电视剧,https://live.goodiptv.club/api/sxg.php?id=CCTV-8H265_4000
-CCTV-9 纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
-CCTV-10 科教,https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
-CCTV-11 戏曲,https://live.goodiptv.club/api/sxg.php?id=CCTV-11-H265_4000
-CCTV-12 社会与法,https://live.goodiptv.club/api/sxg.php?id=CCTV-12H265_4000
-CCTV-13 新闻,https://live.goodiptv.club/api/sxg.php?id=CCTV-xw_4000
-CCTV-14 少儿,https://live.goodiptv.club/api/sxg.php?id=CCTV-14H265_4000
-CCTV-15 音乐,https://live.goodiptv.club/api/sxg.php?id=CCTV-15-yyH265_4000
-CCTV-16 奥林匹克,https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
-CCTV-16 奥林匹克 4K,https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
-CCTV-17 农业农村,https://live.goodiptv.club/api/sxg.php?id=CCTV-17_4000
-CCTV-4K 超高清,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
+CCTV4K,https://live3.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+CCTV1,https://live3.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8
+CCTV2,https://live3.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8
+CCTV3,https://live3.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8
+CCTV4,https://live3.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8
+CCTV5,https://live3.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
+CCTV5+,https://live3.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8
+CCTV6,https://live3.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8
+CCTV7,https://live3.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
+CCTV8,https://live3.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8
+CCTV9,https://live3.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8
+CCTV10,https://live3.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8
+CCTV11,https://live3.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
+CCTV12,https://live3.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8
+CCTV13,https://live3.rxip.sc96655.com/live/CCTV-xw_4000.m3u8
+CCTV14,https://live3.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8
+CCTV15,https://live3.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8
+CCTV16,https://live3.rxip.sc96655.com/live/CCTV-16_4000.m3u8
+CCTV16 4K,https://live3.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8
+CCTV17,https://live3.rxip.sc96655.com/live/CCTV-17_4000.m3u8
+CCTV4K,https://live3.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
+
+CCTV1,https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
+CCTV2,https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
+CCTV3,https://live.goodiptv.club/api/sxg.php?id=CCTV-3H265_4000
+CCTV4,https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
+CCTV5,https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
+CCTV5+,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
+CCTV6,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
+CCTV7,https://live.goodiptv.club/api/sxg.php?id=CCTV-7H265_4000
+CCTV8,https://live.goodiptv.club/api/sxg.php?id=CCTV-8H265_4000
+CCTV9,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+CCTV10,https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
+CCTV11,https://live.goodiptv.club/api/sxg.php?id=CCTV-11-H265_4000
+CCTV12,https://live.goodiptv.club/api/sxg.php?id=CCTV-12H265_4000
+CCTV13,https://live.goodiptv.club/api/sxg.php?id=CCTV-xw_4000
+CCTV14,https://live.goodiptv.club/api/sxg.php?id=CCTV-14H265_4000
+CCTV15,https://live.goodiptv.club/api/sxg.php?id=CCTV-15-yyH265_4000
+CCTV16,https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
+CCTV16 4K,https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
+CCTV17,https://live.goodiptv.club/api/sxg.php?id=CCTV-17_4000
+CCTV 4K,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
 
 CCTV1,http://103.195.150.229:2024/135/ye23.php?id=cctv1
 CCTV1,http://2024.ye23.vip/dl/migu2205.php?id=cctv1
@@ -564,6 +584,8 @@ CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 
 📺港台频道,#genre#
+凤凰中文,https://live3.rxip.sc96655.com/live/test1_4000.m3u8
+凤凰资讯,https://live3.rxip.sc96655.com/live/test2_4000.m3u8
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 凤凰卫视,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 翡翠台,mitv://generationnexxxt.com:19806/222f28eff08c40c2a2f10773500188be
