@@ -137,7 +137,7 @@ CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#h
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://111.20.35.103:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?#http://120.196.232.124:8088/000000001001PLTV/651/224/3221227600/1.m3u8?HlsProfileId=
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8#http://39.134.65.175/PLTV/88888888/224/3221225799/index.m3u8?#http://111.20.35.103:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8#http://www.130585.xyz/yunxi/proxy/cibn/migu.php?id=cctv2&token=362347370d9bba54#http://60.205.114.16/live/cctv4.m3u8?user=APTV66&line=1#http://120.196.232.124:8088/000000001001PLTV/651/224/3221227637/index.m3u8?HlsProfileId=#http://137.175.111.185/migu/?id=cctv4#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV4k,https://epg.pw/stream/128a0f423f9870efbc9bac6acb7c9bf262bc89a731b41edcdc198af7fe76a4df.m3u8
+CCTV4K,https://epg.pw/stream/128a0f423f9870efbc9bac6acb7c9bf262bc89a731b41edcdc198af7fe76a4df.m3u8
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8#http://39.134.67.110/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8#http://39.134.67.110/PLTV/88888888/224/3221225507/index.m3u8
 CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8#http://120.196.232.124:8088/000000001001PLTV/651/224/3221227606/1.m3u8?HlsProfileId=#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -170,7 +170,7 @@ CCTV12,http://t.junzhewenming.top:8888/udp/233.50.201.123:5140
 CCTV13,http://t.junzhewenming.top:8888/udp/233.50.201.246:5140
 CCTV14,http://t.junzhewenming.top:8888/udp/233.50.201.124:5140
 CCTV15,http://t.junzhewenming.top:8888/udp/233.50.201.15:5140
-CCTV16 4k,http://t.junzhewenming.top:8888/udp/233.50.201.63:5140
+CCTV16 4K,http://t.junzhewenming.top:8888/udp/233.50.201.63:5140
 CCTV16,http://t.junzhewenming.top:8888/udp/233.50.201.192:5140
 CCTV17,http://t.junzhewenming.top:8888/udp/233.50.201.35:5140
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
