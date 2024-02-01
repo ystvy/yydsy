@@ -1,0 +1,36 @@
+    {
+    
+    "作者":"凯哥",
+    
+    "站名":"疯狗影视",
+      // "发布页":"www.fabudy.com", 
+    "主页url":"https://m.fenggoudy3.com/",
+  
+    "数组":"<li class=\"col-xs-4\">&&/span>",
+    
+    "标题":"alt=\"&&\"",
+    
+    "副标题":"continu\">&&<",
+    
+    "图片":"data-original=\"&&\"",
+    
+    "链接":"href=\"&&\"",
+    
+    "搜索url":"/index.php?s=vod-search-name;post;wd={wd}",
+    
+    "线路数组":"glyphicon glyphicon-facetime-video ff-text\">&&</div>[不包含:极速]",
+    
+    "线路标题":"</span>&&</h2>",
+    "影片类型": "年份：&&</dd>",
+    "导演": "导演：&&</dd>",
+    "主演": "主演：&&</dd>",
+     "简介": "tab-pane fade vod-nav-content\">&&</div>",
+    "播放数组":"<ul class=\"list-unstyled row&&</ul>",
+    
+    "播放标题":">&&<",
+    
+    "播放列表":"<a&&/a>",
+     "播放请求头":"User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "分类url":"https://m.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html;;akd0",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
