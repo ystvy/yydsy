@@ -17,5 +17,5 @@
 "播放列表":"<li&&</li>",
 "搜索模式": "0",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4#少儿$31",
-"分类url":"https://www.yszj.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+"分类url":"http://yingszj.xn--654a.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
 }  
