@@ -89,7 +89,7 @@
             "name": "🐹月光宝盒"
         },
         {
-            "url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json",
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
             "name": "🚀月光宝盒1"
         }, 
         {
