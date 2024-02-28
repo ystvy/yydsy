@@ -77,7 +77,7 @@
             "name": "刘C"
         },
         {
-            "url": "https://agit.ai/ystvy/cltv/raw/branch/master/%e9%a6%99%e9%9b%85%e6%83%85XYQ/api.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🚀香雅情线路"
         },
         {
