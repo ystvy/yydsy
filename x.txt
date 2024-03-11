@@ -79,15 +79,15 @@
         },
         {
             "url": "https://agit.ai/ystvy/TVBox/raw/branch/main/api.json",
-            "name": "💕潇洒线路"
+            "name": "💕线路"
         },
          {
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
             "name": "🐹月光宝盒"
         },
         {
-            "url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json",
-            "name": "🚀月光宝盒1"
+            "url": "https://cn.kstore.space/download/2863/01.txt",
+            "name": "💕潇洒线路"
         }, 
         {
             "url": "https://www.macms.pro/box/3.json",
