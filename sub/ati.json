@@ -4,7 +4,6 @@
 	//"lives": [{ "group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./xmdszb.txt"]}]}],
 "sites":[
 {"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},	
-{"key": "JOJO","name": "️JOJO","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/XBPQ/JOJO.json"},
 {"key": "电影先生","name": "️电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/电影先生.json"},
 {"key": "加菲猫影视","name": "️加菲猫影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/加菲猫影视.json"},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
