@@ -3,7 +3,7 @@
 	// 数据接口【Type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫】【searchable:0不可以1可以quickSearch:可快速搜索0不可以 1可以filterable:可筛选0不可以1可以】
 	//"lives": [{ "group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./xmdszb.txt"]}]}],
 "sites":[
-{"key": "追剧兔","name": "️追剧兔","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/XBPQ/追剧兔.json"},	
+{"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},	
 {"key": "电影先生","name": "️电影先生","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/电影先生.json"},
 {"key": "加菲猫影视","name": "️加菲猫影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/加菲猫影视.json"},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -15,7 +15,6 @@
 {"key":"七月","name":"💖七月影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/七月影视.json"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
-{"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com"},
 {"key":"dr_荐片","name":"荐片","type":3,"api":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/lib/drpy2.min.js","playerType":"1","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/js/荐片.js"},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp", "playerType": 2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzy88.com/"},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
