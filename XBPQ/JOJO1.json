@@ -5,7 +5,7 @@
 	"热门": "",
 	"分类": "电影$电影#美剧$美剧#韩剧$韩剧#日剧$日剧#动漫$动漫#纪录$纪录#",
 	"请求头": "",
-	"分类url": "https://jiohub.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18",
+	"分类url": "https://jiohub.top/list/{cateId}?video_tag={class}&video_year={year}&page={catePg}&size=24",
 	"数组": "<a&&class=\"score\"",
 	"副标题": "",
 	"图片": "src=\"&&\"",
