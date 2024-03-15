@@ -153,6 +153,7 @@
 {"key":"csp_XBPQ_ 六度","name":"🍀六度（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/六度.json"},
 {"key":"csp_XBPQ_爱看","name":"🍀爱看（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/爱看.json"},
 {"key":"csp_XBPQ_胖虎","name":"🍀胖虎（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/胖虎.json"},
+{"key": "JOJO","name": "️JOJO","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/ystvy/yydsy/raw/branch/master/XBPQ/JOJO.json"},
 {"key":"csp_XBPQ_鸭奈飞","name":"🍀鸭奈飞（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/鸭奈飞.json"},
 {"key":"csp_XBPQ_素白白","name":"🍀素白白（xBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/ystvy/yydsy/raw/branch/master/sub/素白白.json"}
 ],
