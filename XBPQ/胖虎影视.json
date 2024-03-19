@@ -17,6 +17,6 @@
 "播放列表":"<a&&</a>",
 "搜索模式": "0",
 "搜索url":"/vodsearch/-------------.html?wd={wd}",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.physkan.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak"
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$7#解说$8#其他$9",
+"分类url":"https://www.physkan.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;ak"
 }
