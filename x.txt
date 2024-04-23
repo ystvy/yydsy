@@ -227,7 +227,7 @@
           "name":"🚀神器线路"
         },
         {
-          "url":"http://sx.liuyun.wang:88/img",
+          "url":"http://www.liuyunw.com:88/img",
            "name":"🐹神仙线路"
         }
     ]
