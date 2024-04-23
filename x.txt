@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://agit.ai/ystvy/yydsy/raw/branch/master/sub/ati.json",
+            "url": "https://raw.githubusercontent.com/ystvy/yydsy/master/ati.json",
             "name": "🍑王🏆线路"
         },
         {
