@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/ystvy/yydsy/master/ati.json",
+            "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ystvy/yydsy/master/ati.json",
             "name": "🍑王🏆线路"
         },
         {
-            "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/ystvy/gao/master/0821.json",
+            "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ystvy/gao/master/0821.json",
             "name": "gao线路"
         },
         {
@@ -33,31 +33,31 @@
             "name": "🚀PG线路"
         },  
         {
-      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/ystvy/gao/master/0825.json",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ystvy/gao/master/0825.json",
       "name": "高天流云 PG"
       },
     {
-      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/ystvy/gao/master/0826.json",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ystvy/gao/master/0826.json",
       "name": "高天流云 FTY"
      },
     {
-      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/ystvy/gao/master/0827.json",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ystvy/gao/master/0827.json",
       "name": "高天流云 FM"
     },
     {
-      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/ystvy/gao/master/0822.json",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ystvy/gao/master/0822.json",
       "name": "高天流云 ok"
     },
     {
-      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/ystvy/gao/master/js.json",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ystvy/gao/master/js.json",
       "name": "高天流云 JS"
     },
     {
-      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/ystvy/gao/master/XBPQ.json",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ystvy/gao/master/XBPQ.json",
       "name": "高天流云 XBPQ"
     },
     {
-      "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/ystvy/gao/master/XYQ.json",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/ystvy/gao/master/XYQ.json",
       "name": "高天流云 XYQ"
     },
    
@@ -94,7 +94,7 @@
             "name": "💎万达线路"
         },
         {
-            "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+            "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
             "name": "👦雷蒙影视JS"
         }, 
         {
@@ -167,11 +167,11 @@
             "name": "🏄️圆周率线路"
         },
         {
-            "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
+            "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
             "name": "👦雷蒙影视"
         },
         {
-            "url": "https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json",
+            "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lempg.json",
             "name": "👦雷蒙影视网盘"
         },
         {
